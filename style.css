@@ -220,7 +220,7 @@ header {
 }
 #highlights:before,
 #highlights:after {
-  background-image: url("wave.svg");
+  background-image: url("https://raw.githubusercontent.com/Tmeah/e-commerce/912a83c40066d4fe2db3d8eef398c4ecce4fe6fd/wave.svg");
   content: "";
   position: absolute;
   width: 101vw;
