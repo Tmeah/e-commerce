@@ -16,7 +16,7 @@ body {
   overflow-x: hidden;
 }
 nav {
-  height: 80px;
+  height: 120px;
   display: flex;
 }
 
@@ -30,8 +30,9 @@ nav {
   margin: 0 auto;
 }
 .logo {
-  width: 160px;
+  width: 200px;
 }
+
 ul {
   display: flex;
 }
