@@ -216,8 +216,8 @@ header {
 
 /* Highlights */
 #highlights {
-  margin-top: 80px;
   position: relative;
+  padding-top: 80px;
 }
 #highlights:before,
 #highlights:after {
